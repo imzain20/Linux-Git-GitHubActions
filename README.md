@@ -10,8 +10,8 @@ It is now used by millions of developers and organizations around the world to t
 meaning that each developer has a copy of the full repository on their own system. This allows them to work independently, making commits, branching, and merging <br>
 without having to coordinate with each other. It helps in collaboration on projects by enabling multiple users to work on the same code base in a secure, distributed manner.
 <br>
-**Useful Commands**
-<br>
+**Useful Commands** <br>
+
 ### git init: <br>
 This command is used to initialize a new Git repository in the current directory.<br>
 
