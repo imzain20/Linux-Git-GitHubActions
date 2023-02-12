@@ -3,14 +3,14 @@ Contains some useful information about the commands of Linux, Git and GitHub Act
 <br>
 ## Git
 <br>
-**Introduction**
+** Introduction **
 <br>
 Git is a free and open-source version control system. Git was created by Linus Torvalds in 2005 as a way to manage the development of the Linux kernel.<br>
 It is now used by millions of developers and organizations around the world to track and manage their projects. Git is a distributed version control system, <br> 
 meaning that each developer has a copy of the full repository on their own system. This allows them to work independently, making commits, branching, and merging <br>
 without having to coordinate with each other. It helps in collaboration on projects by enabling multiple users to work on the same code base in a secure, distributed manner.
 <br>
-**Useful Commands** <br>
+** Useful Commands ** <br>
 
 ### git init: <br>
 This command is used to initialize a new Git repository in the current directory.<br>
@@ -50,7 +50,7 @@ Linux is an open-source operating system that is used in a variety of digital de
 It is highly customizable, allowing users to modify the system based on their needs. It is also free and open-source, meaning anyone can access, modify and redistribute its source code.<br>
 Linux is popular due to its stability and reliability, as well as its wide range of applications, tools, and utilities.
 <br>
-**Useful Commands**
+** Useful Commands **
 <br>
 <br>
 Linux has a variety of commands that allow users to access and manipulate files, directories, and other system features. 
@@ -75,7 +75,7 @@ Linux has a variety of commands that allow users to access and manipulate files,
 ## GitHub Actions <br>
 GitHub Actions is a continuous integration and continuous delivery (CI/CD) platform that allows you to automate your build, test, and deployment pipeline. <br>
 
-**Useful Commands**
+** Useful Commands **
 <br>
 <br>
 ### Checkout <br>
